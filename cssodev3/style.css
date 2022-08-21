@@ -1,0 +1,124 @@
+
+    /*align-items: center*/
+    
+    body {
+        background-color: #202124 ;
+    }
+    .table1 {
+        float: right;
+    
+        width: 300px;
+    /*background-color: blueviolet;*/
+        margin-right: 5px;
+    }
+    a {
+        text-decoration: none;
+        font-size: 14px;
+        font-weight: 100;
+        color:#bdc1c6 ;
+        font-family: Arial, sans-serif;
+        width: 100px;
+    }  
+
+    .searchbox  {
+        
+        /*padding-bottom: 100px;
+        padding-top: 0px;*/
+        
+        width: 500px;;
+        height: 40px;
+        padding:(5,8,0,14);
+        border-radius: 20px;
+        border-style: solid;
+        border-color: #bdc1c6;
+        background-color:#202124  ;
+        border-width: thin;
+    }
+    .ara {
+        width: 300px;
+        height: 40px;
+        background-color:#262629 ;
+        color:#bdc1c6 ;
+        border-radius: 5px;
+        border-color:#202124 ;
+        border-width: thin;
+        margin-right: 15px;
+        font-size: 16px;
+        
+    }
+    .table2 {
+        display: block;
+    }
+    .parag {
+        font-size: 14px;
+        color:#bdc1c6 ;
+        height: 225px;
+
+    }
+    .alttable {
+        color:#bdc1c6;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        font-weight: 100;
+        
+    }
+    .turkiye {
+        display:block;
+        border-top: 0px ;
+        border-bottom: 1px;
+        border-left: 0px;
+        border-right: 0px;
+        border-color: #bdc1c6;
+        border-style:groove;
+        font-size: 15px;
+        background-color: #171717;
+        color:#9aa0a6;
+        height:  20px;
+        margin-left: 0px;
+        margin-top:  0px;
+        padding-bottom: 15px;
+        padding-left: 40px;
+        padding-top: 15px;
+        font-family: arial,sans-serif;
+        
+        
+}
+.altbar {
+    display: block;
+    
+    /*justify-content: space-evenly;*/
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    color:#9aa0a6;
+    height:  50px;
+    
+    background-color:#171717;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+   
+    
+}
+    
+    .altbarpadding {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    
+    
+}
+.yaprak {
+    padding-left: 180px;
+}  
+.gizlilik {
+    padding-left: 420px;
+}
+.mic {
+    width: 14px;
+    height: 20px;
+    
+    left: 500px;
+    top: 100px;
+  }
